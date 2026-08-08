@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.env.*
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.venv/
+venv/
+*.log
+/worktrees/
+/tmp/
+.DS_Store
+# Internal ops docs — never publish
+docs/setup-notes.md
+docs/change-requests/
+docs/PHASE.md
+.hermes.md
+platform/
